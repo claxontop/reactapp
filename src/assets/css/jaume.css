@@ -1,0 +1,8 @@
+ol {
+    display:inline-grid;
+    text-align: center;
+   list-style-type:decimal;
+}
+li{
+    text-align: justify;
+}
